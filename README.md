@@ -1,2 +1,2 @@
 # Calculator
-### LINK :-   calculator-840.netlify.app
+### LINK :-   https://calculator-840.netlify.app/
